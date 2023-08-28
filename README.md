@@ -1,4 +1,35 @@
-# BulkBuddy要件定義書(最終更新 8/25 2:10)
+# 概要
+株式会社エムティーアイのインターンシップで作成したものです。（公開許可取得済み）
+実際に新規サービスを制作することを目標にチームで企画から考え、マーケティング分析を行い決定したサービスのプロジェクトです。
+
+## サービス概要
+サービス名「BulkBuddy」
+
+### コンセプト
+- 体づくりの増量サポートサービス
+
+### ベネフィット
+- 無料で目標体重や必要摂取カロリーを設定し、増量の状況を管理できる。
+- 有料会員になる事でコミュニティを通じて増量仲間と活動報告やコラムを共有出来るようになり、増量のモチベーションを保つことができる。
+
+## 開発内容
+### メンバー
+バックエンド担当:[佐藤(自分)](https://github.com/YutaSato0717) / [井上](https://github.com/Kento210)
+フロントエンド担当：[赤羽](https://github.com/AkahaneJunya) / [工藤](https://github.com/futaba3)
+
+### 開発期間
+約2日
+
+
+ ### 使用技術
+ フロントエンド： Vue.js, Semantic UI
+
+ バックエンド: Node.js, Python
+
+ クラウド: AWS(Amazon S3, API Gateway + AWS Lambda, Amazon DynamoDB, Amazon CloudWatch)
+
+ 以下実際の開発期間でREADMEにて作成した要件定義書です。
+# BulkBuddy要件定義書
 
 # Github開発方針
 
