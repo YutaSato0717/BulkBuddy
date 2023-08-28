@@ -14,20 +14,19 @@
 
 ## 開発内容
 ### メンバー
-バックエンド担当:[佐藤(自分)](https://github.com/YutaSato0717) / [井上](https://github.com/Kento210)
-
-フロントエンド担当：[赤羽](https://github.com/AkahaneJunya) / [工藤](https://github.com/futaba3)
+-バックエンド担当:[佐藤(自分)](https://github.com/YutaSato0717) / [井上](https://github.com/Kento210)
+-フロントエンド担当：[赤羽](https://github.com/AkahaneJunya) / [工藤](https://github.com/futaba3)
 
 ### 開発期間
 約2日
 
 
  ### 使用技術
- フロントエンド： Vue.js, Semantic UI
+ -フロントエンド： Vue.js, Semantic UI
 
- バックエンド: Node.js, Python
+ -バックエンド: Node.js, Python
 
- クラウド: AWS(Amazon S3, API Gateway + AWS Lambda, Amazon DynamoDB, Amazon CloudWatch)
+ -クラウド: AWS(Amazon S3, API Gateway + AWS Lambda, Amazon DynamoDB, Amazon CloudWatch)
 
  
  以下実際の開発期間でREADMEにて作成した要件定義書です。
