@@ -15,6 +15,7 @@
 ## 開発内容
 ### メンバー
 バックエンド担当:[佐藤(自分)](https://github.com/YutaSato0717) / [井上](https://github.com/Kento210)
+
 フロントエンド担当：[赤羽](https://github.com/AkahaneJunya) / [工藤](https://github.com/futaba3)
 
 ### 開発期間
@@ -28,6 +29,7 @@
 
  クラウド: AWS(Amazon S3, API Gateway + AWS Lambda, Amazon DynamoDB, Amazon CloudWatch)
 
+ 
  以下実際の開発期間でREADMEにて作成した要件定義書です。
 # BulkBuddy要件定義書
 
